@@ -1,0 +1,45 @@
+/* Created by: Maria Goemans
+* Created on: Feb 25 2022
+* This CSS file defines the style for more-style.html
+* ICS2O-Unit1-04-HTML-CSS
+*/
+
+body {
+  background-color: #bfecd7;
+}
+
+h1 {
+  background-color: #ffdef4;
+  color: black;
+  padding: 40px;
+  text-align: center;
+}
+
+h2 {
+  background-color: #fffca0;
+  color: black;
+  padding: 20px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+p {
+  background-color: #bfebec;
+  color: black;
+  padding: 10px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+ol {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+table {
+  background-color: #ffe1a0;
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 10%;
+}
