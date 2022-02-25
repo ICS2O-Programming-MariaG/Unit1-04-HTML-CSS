@@ -1,0 +1,14 @@
+/* Created by: Maria Goemans
+* Created on: Feb 25 2022
+* This CSS file defines the style for index.html
+* ICS2O-Unit1-04-HTML-CSS
+*/
+
+body{
+  background-color:#BFECD7;
+}
+
+h1{
+  background-color:#BFEBEC;
+  color:#344F50;
+}
