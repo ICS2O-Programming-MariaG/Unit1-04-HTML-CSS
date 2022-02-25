@@ -4,11 +4,29 @@
 * ICS2O-Unit1-04-HTML-CSS
 */
 
-body{
-  background-color:#BFECD7;
+body {
+  background-color: #bfecd7;
 }
 
-h1{
-  background-color:#BFEBEC;
-  color:#344F50;
+h1 {
+  background-color: #bfebec;
+  color: #344f50;
+  padding: 40px;
+  text-align: center;
+}
+
+p {
+  background-color: #efdeff;
+  color: black;
+  padding: 20px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+img {
+  border-radius: 10px;
+  width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
